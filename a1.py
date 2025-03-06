@@ -27,7 +27,7 @@ def light_pixels(image, lightness, channel):
        >>> light_pixels(image, 200, 'blue')
        3
        """
-       return None
+       return 1+1
 
 # Task 2
 def decompose_image(image, thresholds):
